@@ -1,0 +1,41 @@
+h1 {
+  color: #d7bfff
+}
+.header {
+  background-color: #5e4d7a;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: rgb(128, 128, 128);
+}
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: first baseline;
+  color: #00ffff;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+p,
+h2 {
+  text-align: center;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  color: #9ef04d;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
